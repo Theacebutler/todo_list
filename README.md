@@ -1,10 +1,9 @@
 # React.js Todo app
 
 
-
   <a href="https://github.com/theacebutler/todo_list/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/theacebutler/todo_list?color=%236963ff&label=License" alt="MIT">
-  </a>
+  </a></br></br>
 
 A todo app made with React.js\
 this goes through the basics of
