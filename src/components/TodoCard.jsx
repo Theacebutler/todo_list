@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/TodoCard.css'
-
+import '../css/responsive.css'
 export default function TodoCard(props) {
 
     const { children, handelDeleteTodo, handelEditTodo, index } = props

@@ -3,6 +3,7 @@ import TodoInput from "./components/TodoInput"
 import TodoList from "./components/TodoList"
 
 import './css/App.css'
+import './css/responsive.css'
 
 function App() {
 

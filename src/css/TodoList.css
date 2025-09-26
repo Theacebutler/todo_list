@@ -1,4 +1,9 @@
-.main {}
+.main {
+    /* display: flex; */
+    flex-direction: column-reverse;
+    align-content: center;
+    justify-content: center;
+}
 
 .no-todo {
     list-style: none;

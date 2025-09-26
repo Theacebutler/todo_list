@@ -1,0 +1,13 @@
+@media screen and (max-width: 576px) {
+   .task-item {
+      border: none;
+      border-radius: 0px;
+      border-bottom: 2px solid;
+      background-color: red;
+   }
+
+   .todo-input {
+      font-size: 18px;
+   }
+
+}
