@@ -1,1 +1,8 @@
 .main {}
+
+.no-todo {
+    list-style: none;
+    margin: 20px 0;
+    display: grid;
+    place-items: center;
+}
