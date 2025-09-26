@@ -13,6 +13,8 @@ this goes through the basics of
 - LocalStorage
 - getting comfortable with useing the React.js framework
 
+## 🔴 It's Live!
+check it out at [https://resactodo.netlify.app](https://resactodo.netlify.app/)
 
 ## ⏳Coming soon 
 - Django or FastApi backend - haven't decided yet 
