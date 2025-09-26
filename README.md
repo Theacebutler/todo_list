@@ -14,7 +14,7 @@ this goes through the basics of
 - getting comfortable with useing the React.js framework
 
 ## 🔴 It's Live!
-check it out at [https://resactodo.netlify.app](https://resactodo.netlify.app/)
+check it out at [https://react-todo-app-u9nn.onrender.com](https://react-todo-app-u9nn.onrender.com)
 
 ## ⏳Coming soon 
 - Django or FastApi backend - haven't decided yet 
