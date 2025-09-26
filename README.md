@@ -2,7 +2,7 @@
 
 
 
-  <a href="https://github.com/theacebutler/todo_list/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/theacebutler/todo_list/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/theacebutler/todo_list?color=%236963ff&label=License" alt="MIT">
   </a>
 
