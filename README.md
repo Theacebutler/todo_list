@@ -7,7 +7,7 @@ this goes through the basics of
 - Nesting Components 
 - useState and useEffect
 - LocalStorage
-- getting comfortable with useing the React.js framework\
+- getting comfortable with useing the React.js framework
 
 
 ## ⏳Coming soon 
