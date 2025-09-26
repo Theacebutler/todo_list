@@ -2,7 +2,7 @@
 
 
 A todo app made with React.js\
-this goes through yhe basics of
+this goes through the basics of
 - Components 
 - Nesting Components 
 - useState and useEffect
