@@ -2,8 +2,7 @@ import React, { useState } from 'react'
 import '../css/TodoInput.css'
 export default function TodoInput(props) {
 
-    const { handelAddTodos } = props
-    const [todoValue, setTodoValue] = useState('')
+    const { handelAddTodos, todoValue, setTodoValue } = props
 
     return (
         <header>
