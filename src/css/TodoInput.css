@@ -1,5 +1,4 @@
 header {
-    /* border: .2px solid blue; */
     padding: 30px;
     display: flex;
     align-items: center;
@@ -18,6 +17,22 @@ input {
     height: fit-content;
     width: fit-content;
     border-radius: 8px;
-    border: 2px solid rgba(255, 255, 255, 0.3);
+    border: 2px solid;
+}
 
+@media (prefers-color-scheme: light) {
+    .add-task-btn {
+        border-color:#1a1a1a ;
+    }
+    .add-task-btn:hover {
+        background-color: #afafafa3;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    .add-task-btn {
+        border-color:  rgba(255, 255, 255, 0.3);
+    }
+    .add-task-btn:hover {
+        background-color: #1a1a1a;
+    }
 }
